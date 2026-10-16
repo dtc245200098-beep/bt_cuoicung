@@ -1,0 +1,4 @@
+com\productmanagement\util\DBConnection.class
+com\productmanagement\model\Product.class
+com\productmanagement\controller\ProductServlet.class
+com\productmanagement\dao\ProductDAO.class
